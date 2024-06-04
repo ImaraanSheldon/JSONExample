@@ -1,0 +1,39 @@
+{
+    "results":[
+        {
+            "productName": "Summer-Showers",
+            "catagories": "Laptop",
+            "description": "what is my purpose?",
+            "price": 9999.99,
+            "img_url": "https://imaraansheldon.github.io/allImages/ColorMyWorld/Impressionism/agedLight.jpg"
+        },
+        {
+            "productName": "Morty-Showers",
+            "catagories": "Laptop",
+            "description": "your purpose is to serve butter",
+            "price": 44444.99,
+            "img_url": "https://imaraansheldon.github.io/allImages/ColorMyWorld/Impressionism/agedLight.jpg"
+        },
+        {
+            "productName": "Beth-Showers",
+            "catagories": "Laptop",
+            "description": "your purpose is to serve butter",
+            "price": 3333.99,
+            "img_url": "https://imaraansheldon.github.io/allImages/ColorMyWorld/Impressionism/agedLight.jpg"
+        },
+        {
+            "productName": "Jerry-Showers",
+            "catagories": "Laptop",
+            "description": "your purpose is to serve butter",
+            "price": 1111.99,
+            "img_url": "https://imaraansheldon.github.io/allImages/ColorMyWorld/Impressionism/agedLight.jpg"
+        },
+        {
+            "productName": "Rick-Showers",
+            "catagories": "Laptop",
+            "description": "your purpose is to serve butter",
+            "price": 2222.99,
+            "img_url": "https://imaraansheldon.github.io/allImages/ColorMyWorld/Impressionism/agedLight.jpg"
+        }
+    ]
+}
